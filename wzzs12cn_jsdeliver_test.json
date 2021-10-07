@@ -1,0 +1,2190 @@
+// 20211007125312
+// http://biligo.org/fucksub/cn/wzzs12cn.json
+
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "body": [
+    {
+      "from": 4.75,
+      "to": 6.33,
+      "location": 2,
+      "content": "鲁迪乌斯 快看"
+    },
+    {
+      "from": 6.67,
+      "to": 7.84,
+      "location": 2,
+      "content": "是海"
+    },
+    {
+      "from": 25.1,
+      "to": 26.19,
+      "location": 2,
+      "content": "好咸"
+    },
+    {
+      "from": 26.65,
+      "to": 30.48,
+      "location": 2,
+      "content": "这么说来这是艾莉丝第一次看到海吧"
+    },
+    {
+      "from": 30.48,
+      "to": 31.65,
+      "location": 2,
+      "content": "我想游泳"
+    },
+    {
+      "from": 31.65,
+      "to": 34.4,
+      "location": 2,
+      "content": "没有泳衣啦 而且你要怎么…"
+    },
+    {
+      "from": 34.4,
+      "to": 36.07,
+      "location": 2,
+      "content": "那是什么　　不需要啦"
+    },
+    {
+      "from": 38.62,
+      "to": 42.12,
+      "location": 2,
+      "content": "这表示 她要裸体游泳吗"
+    },
+    {
+      "from": 42.95,
+      "to": 44.75,
+      "location": 2,
+      "content": "她也已经13岁了"
+    },
+    {
+      "from": 44.75,
+      "to": 47.63,
+      "location": 2,
+      "content": "最近发育得非常好…"
+    },
+    {
+      "from": 51.09,
+      "to": 52.63,
+      "location": 2,
+      "content": "别这么做比较好"
+    },
+    {
+      "from": 53.38,
+      "to": 55.43,
+      "location": 2,
+      "content": "这片海有很多魔物"
+    },
+    {
+      "from": 71.78,
+      "to": 77.2,
+      "location": 2,
+      "content": "(不可能去忘记)"
+    },
+    {
+      "from": 78.16,
+      "to": 84.12,
+      "location": 2,
+      "content": "(雷电降临于大地的声音)"
+    },
+    {
+      "from": 84.58,
+      "to": 89.67,
+      "location": 2,
+      "content": "(浅眠的星星也醒了过来)"
+    },
+    {
+      "from": 90.13,
+      "to": 96.59,
+      "location": 2,
+      "content": "(射出如同箭矢倾注般的光芒)"
+    },
+    {
+      "from": 96.59,
+      "to": 103.81,
+      "location": 2,
+      "content": "(祈祷赋予气息的存在回归吧)"
+    },
+    {
+      "from": 103.81,
+      "to": 109.9,
+      "location": 2,
+      "content": "(在那数不尽的黑夜里)"
+    },
+    {
+      "from": 110.23,
+      "to": 115.86,
+      "location": 2,
+      "content": "(无视时光流逝的这首歌曲)"
+    },
+    {
+      "from": 115.86,
+      "to": 123.03,
+      "location": 2,
+      "content": "(会毫不间断地奉献给你)"
+    },
+    {
+      "from": 123.03,
+      "to": 129.33,
+      "location": 2,
+      "content": "(将干枯视野的些许泪滴)"
+    },
+    {
+      "from": 129.33,
+      "to": 137.84,
+      "location": 2,
+      "content": "(在期盼的那一天到来前保留下来)"
+    },
+    {
+      "from": 140.68,
+      "to": 144.81,
+      "location": 2,
+      "content": "(保留下来)"
+    },
+    {
+      "from": 150.73,
+      "to": 153.77,
+      "location": 2,
+      "content": "大地 是大地"
+    },
+    {
+      "from": 156.32,
+      "to": 158.28,
+      "location": 2,
+      "content": "受不了 不过就是搭个船而已"
+    },
+    {
+      "from": 158.74,
+      "to": 160.24,
+      "location": 2,
+      "content": "真是有够丢脸的"
+    },
+    {
+      "from": 160.57,
+      "to": 162.91,
+      "location": 2,
+      "content": "你 你说什么…"
+    },
+    {
+      "from": 163.66,
+      "to": 164.7,
+      "location": 2,
+      "content": "等一下"
+    },
+    {
+      "from": 166.41,
+      "to": 167.79,
+      "location": 2,
+      "content": "两位"
+    },
+    {
+      "from": 167.79,
+      "to": 171.54,
+      "location": 2,
+      "content": "你们没有忘记这次旅行的目的吧"
+    },
+    {
+      "from": 172.54,
+      "to": 175.38,
+      "location": 2,
+      "content": "你们就是那个「Dead End」吗"
+    },
+    {
+      "from": 176.71,
+      "to": 179.13,
+      "location": 2,
+      "content": "最近传闻传得很惊人呢"
+    },
+    {
+      "from": 179.63,
+      "to": 181.89,
+      "location": 2,
+      "content": "狂犬艾莉丝和…"
+    },
+    {
+      "from": 182.72,
+      "to": 184.55,
+      "location": 2,
+      "content": "看门犬瑞杰路德"
+    },
+    {
+      "from": 185.85,
+      "to": 187.22,
+      "location": 2,
+      "content": "他们两个人有外号了"
+    },
+    {
+      "from": 187.22,
+      "to": 190.06,
+      "location": 2,
+      "content": "然后你是…"
+    },
+    {
+      "from": 190.06,
+      "to": 191.48,
+      "location": 2,
+      "content": "那个…"
+    },
+    {
+      "from": 191.48,
+      "to": 192.9,
+      "location": 2,
+      "content": "我的外号是什么"
+    },
+    {
+      "from": 192.9,
+      "to": 195.48,
+      "location": 2,
+      "content": "该不会是奶油犬吧"
+    },
+    {
+      "from": 195.73,
+      "to": 198.11,
+      "location": 2,
+      "content": "对了 是鲁杰鲁德"
+    },
+    {
+      "from": 198.11,
+      "to": 200.15,
+      "location": 2,
+      "content": "「饲主鲁杰鲁德」"
+    },
+    {
+      "from": 203.7,
+      "to": 205.41,
+      "location": 2,
+      "content": "所以说就是这样了　　不是吧"
+    },
+    {
+      "from": 205.83,
+      "to": 206.74,
+      "location": 2,
+      "content": "要从魔大陆前往米里斯大陆"
+    },
+    {
+      "from": 206.76,
+      "to": 207.95,
+      "location": 2,
+      "content": "相当努力活动了一年"
+    },
+    {
+      "from": 207.95,
+      "to": 209,
+      "location": 2,
+      "content": "人族要支付5枚铁钱"
+    },
+    {
+      "from": 209.02,
+      "to": 211,
+      "location": 2,
+      "content": "就只有我没有被人记住名字…"
+    },
+    {
+      "from": 211,
+      "to": 211.56,
+      "location": 2,
+      "content": "至于自称是斯佩路德族的家伙"
+    },
+    {
+      "from": 211.58,
+      "to": 212.58,
+      "location": 2,
+      "content": "这令人相当震惊啊…"
+    },
+    {
+      "from": 212.58,
+      "to": 215.54,
+      "location": 2,
+      "content": "即使是假冒的也不能轻易让他上船\n虽然确实有自称瑞杰路德…"
+    },
+    {
+      "from": 215.54,
+      "to": 216.34,
+      "location": 2,
+      "content": "所以必须支付200枚绿矿钱"
+    },
+    {
+      "from": 216.36,
+      "to": 217.55,
+      "location": 2,
+      "content": "不过饲主听上去还不赖…"
+    },
+    {
+      "from": 217.85,
+      "to": 219.4,
+      "location": 2,
+      "content": "请务必让我给艾莉丝戴上项圈…"
+    },
+    {
+      "from": 222.97,
+      "to": 225.3,
+      "location": 2,
+      "content": "200枚绿矿钱"
+    },
+    {
+      "from": 239.11,
+      "to": 242.36,
+      "location": 2,
+      "content": "今天的议题讲明白就是钱"
+    },
+    {
+      "from": 243.15,
+      "to": 246.41,
+      "location": 2,
+      "content": "瑞杰路德的船费要200枚绿矿钱"
+    },
+    {
+      "from": 247.12,
+      "to": 248.87,
+      "location": 2,
+      "content": "这是天价的金额"
+    },
+    {
+      "from": 249.45,
+      "to": 251.37,
+      "location": 2,
+      "content": "即使完成S级的委托"
+    },
+    {
+      "from": 251.37,
+      "to": 253.04,
+      "location": 2,
+      "content": "也不知道要花上多久时间…"
+    },
+    {
+      "from": 254.71,
+      "to": 256.25,
+      "location": 2,
+      "content": "真令人困扰"
+    },
+    {
+      "from": 258.75,
+      "to": 261.3,
+      "location": 2,
+      "content": "难道 要丢下瑞杰路德吗"
+    },
+    {
+      "from": 261.3,
+      "to": 263.68,
+      "location": 2,
+      "content": "当然不可能丢下他啊"
+    },
+    {
+      "from": 263.68,
+      "to": 265.39,
+      "location": 2,
+      "content": "那该怎么办才好"
+    },
+    {
+      "from": 267.05,
+      "to": 270.47,
+      "location": 2,
+      "content": "我还未想到解决的方法"
+    },
+    {
+      "from": 271.1,
+      "to": 273.94,
+      "location": 2,
+      "content": "瑞杰路德 你能在海上跑吗"
+    },
+    {
+      "from": 273.94,
+      "to": 276.02,
+      "location": 2,
+      "content": "这实在是做不到呢"
+    },
+    {
+      "from": 276.48,
+      "to": 278.65,
+      "location": 2,
+      "content": "是吗 真令人困扰"
+    },
+    {
+      "from": 285.2,
+      "to": 286.2,
+      "location": 2,
+      "content": "鲁迪乌斯"
+    },
+    {
+      "from": 287.66,
+      "to": 290.12,
+      "location": 2,
+      "content": "抱歉 这都是我害的"
+    },
+    {
+      "from": 293.91,
+      "to": 295.92,
+      "location": 2,
+      "content": "我也会一起想办法"
+    },
+    {
+      "from": 297.92,
+      "to": 299.09,
+      "location": 2,
+      "content": "说的也是"
+    },
+    {
+      "from": 299.09,
+      "to": 301.42,
+      "location": 2,
+      "content": "我们就暂时来寻找各种可能性吧"
+    },
+    {
+      "from": 302.38,
+      "to": 303.34,
+      "location": 2,
+      "content": "谢谢"
+    },
+    {
+      "from": 316.85,
+      "to": 319.73,
+      "location": 2,
+      "content": "好了 该怎么办呢"
+    },
+    {
+      "from": 326.45,
+      "to": 327.82,
+      "location": 2,
+      "content": "一年不见"
+    },
+    {
+      "from": 333.45,
+      "to": 336.75,
+      "location": 2,
+      "content": "我还安心地觉得你不会再出现了呢"
+    },
+    {
+      "from": 336.75,
+      "to": 337.92,
+      "location": 2,
+      "content": "没有啦"
+    },
+    {
+      "from": 338.46,
+      "to": 342.25,
+      "location": 2,
+      "content": "我先前的建议不是酿成大错了吗"
+    },
+    {
+      "from": 342.88,
+      "to": 346.3,
+      "location": 2,
+      "content": "所以就觉得有点难以露脸"
+    },
+    {
+      "from": 347.63,
+      "to": 350.55,
+      "location": 2,
+      "content": "原来神也会有这种时候"
+    },
+    {
+      "from": 352.35,
+      "to": 355.6,
+      "location": 2,
+      "content": "明明只要把那群小子交给卫兵"
+    },
+    {
+      "from": 355.93,
+      "to": 358.6,
+      "location": 2,
+      "content": "就能跟瑞杰路德打好关系了"
+    },
+    {
+      "from": 359.44,
+      "to": 362.23,
+      "location": 2,
+      "content": "结果你却拉他们入伙"
+    },
+    {
+      "from": 362.23,
+      "to": 364.15,
+      "location": 2,
+      "content": "真的是出乎我意料"
+    },
+    {
+      "from": 364.15,
+      "to": 367.53,
+      "location": 2,
+      "content": "以我的角度光是看戏都觉得有趣"
+    },
+    {
+      "from": 368.61,
+      "to": 371.03,
+      "location": 2,
+      "content": "我倒是完全不觉得有趣"
+    },
+    {
+      "from": 371.45,
+      "to": 372.41,
+      "location": 2,
+      "content": "不过…"
+    },
+    {
+      "from": 373.37,
+      "to": 373.91,
+      "location": 2,
+      "content": "多亏如此"
+    },
+    {
+      "from": 373.91,
+      "to": 376.95,
+      "location": 2,
+      "content": "你们才只花一年多就来到这里了吧"
+    },
+    {
+      "from": 378.71,
+      "to": 380.67,
+      "location": 2,
+      "content": "你是想说结果好就是好吗"
+    },
+    {
+      "from": 380.67,
+      "to": 382.63,
+      "location": 2,
+      "content": "事情本来就只看结果啊"
+    },
+    {
+      "from": 384.13,
+      "to": 385.55,
+      "location": 2,
+      "content": "真令人不爽"
+    },
+    {
+      "from": 387.09,
+      "to": 388.72,
+      "location": 2,
+      "content": "虽然不能算是赔罪"
+    },
+    {
+      "from": 389.09,
+      "to": 391.05,
+      "location": 2,
+      "content": "不过我今天也来给予建议了"
+    },
+    {
+      "from": 391.51,
+      "to": 393.68,
+      "location": 2,
+      "content": "你去露天摊贩那购买食物"
+    },
+    {
+      "from": 393.68,
+      "to": 395.56,
+      "location": 2,
+      "content": "然后去小路里晃晃吧"
+    },
+    {
+      "from": 395.56,
+      "to": 397.39,
+      "location": 2,
+      "content": "不要擅自给建议"
+    },
+    {
+      "from": 400.4,
+      "to": 402.81,
+      "location": 2,
+      "content": "所以是会发生什么事"
+    },
+    {
+      "from": 406.53,
+      "to": 410.03,
+      "location": 2,
+      "content": "这就留到明天去享受吧"
+    },
+    {
+      "from": 410.91,
+      "to": 413.03,
+      "location": 2,
+      "content": "那么我要消失咯"
+    },
+    {
+      "from": 414.87,
+      "to": 415.74,
+      "location": 2,
+      "content": "再见"
+    },
+    {
+      "from": 415.74,
+      "to": 417.91,
+      "location": 2,
+      "content": "不要突然跑出来又擅自消失"
+    },
+    {
+      "from": 438.47,
+      "to": 441.64,
+      "location": 2,
+      "content": "鲁迪乌斯说他今天要分头行动"
+    },
+    {
+      "from": 442.6,
+      "to": 444.31,
+      "location": 2,
+      "content": "究竟是打算做什么呢"
+    },
+    {
+      "from": 444.86,
+      "to": 447.11,
+      "location": 2,
+      "content": "战斗中不要分心"
+    },
+    {
+      "from": 455.91,
+      "to": 456.99,
+      "location": 2,
+      "content": "有破绽"
+    },
+    {
+      "from": 461.58,
+      "to": 462.62,
+      "location": 2,
+      "content": "成功了"
+    },
+    {
+      "from": 465.67,
+      "to": 468.8,
+      "location": 2,
+      "content": "打到了 我打到了对吧"
+    },
+    {
+      "from": 471.76,
+      "to": 473.3,
+      "location": 2,
+      "content": "太好了"
+    },
+    {
+      "from": 473.76,
+      "to": 476.1,
+      "location": 2,
+      "content": "成功了 打中了"
+    },
+    {
+      "from": 476.1,
+      "to": 479.81,
+      "location": 2,
+      "content": "我变强了对吧 对吧"
+    },
+    {
+      "from": 482.89,
+      "to": 484.98,
+      "location": 2,
+      "content": "这次依然不知道那个"
+    },
+    {
+      "from": 484.98,
+      "to": 486.77,
+      "location": 2,
+      "content": "自称是神的家伙有什么目的"
+    },
+    {
+      "from": 487.11,
+      "to": 489.44,
+      "location": 2,
+      "content": "先前似乎因为我想太多"
+    },
+    {
+      "from": 489.44,
+      "to": 491.74,
+      "location": 2,
+      "content": "反而娱乐到那个家伙"
+    },
+    {
+      "from": 492.74,
+      "to": 496.45,
+      "location": 2,
+      "content": "那么这次就反过来直接听从指示吧"
+    },
+    {
+      "from": 497.12,
+      "to": 500.04,
+      "location": 2,
+      "content": "不要去钻牛角尖 依指示行事"
+    },
+    {
+      "from": 500.04,
+      "to": 502.66,
+      "location": 2,
+      "content": "这么一来那家伙也会觉得无趣吧"
+    },
+    {
+      "from": 506.96,
+      "to": 509.3,
+      "location": 2,
+      "content": "这样不就著了那家伙的道了"
+    },
+    {
+      "from": 513.22,
+      "to": 517.09,
+      "location": 2,
+      "content": "洛琪希现在在做什么呢"
+    },
+    {
+      "from": 520.1,
+      "to": 522.52,
+      "location": 2,
+      "content": "好棒 好棒啊"
+    },
+    {
+      "from": 522.52,
+      "to": 524.85,
+      "location": 2,
+      "content": "用力 再用力"
+    },
+    {
+      "from": 525.44,
+      "to": 527.36,
+      "location": 2,
+      "content": "等等…等一下…"
+    },
+    {
+      "from": 528.48,
+      "to": 530.02,
+      "location": 2,
+      "content": "晚点来打一枪吧…"
+    },
+    {
+      "from": 535.15,
+      "to": 537.16,
+      "location": 2,
+      "content": "好臭"
+    },
+    {
+      "from": 537.16,
+      "to": 541.16,
+      "location": 2,
+      "content": "饭…能请妾身吃饭吗…"
+    },
+    {
+      "from": 541.79,
+      "to": 542.91,
+      "location": 2,
+      "content": "等等…"
+    },
+    {
+      "from": 543.08,
+      "to": 545.92,
+      "location": 2,
+      "content": "等等  你要去哪里  呜呜…"
+    },
+    {
+      "from": 549.71,
+      "to": 557.93,
+      "location": 2,
+      "content": "复活后过了300年…竟然在这种地方…"
+    },
+    {
+      "from": 557.93,
+      "to": 561.93,
+      "location": 2,
+      "content": "倒…下…"
+    },
+    {
+      "from": 565.6,
+      "to": 568.19,
+      "location": 2,
+      "content": "难道是那个家伙吗"
+    },
+    {
+      "from": 573.53,
+      "to": 575.15,
+      "location": 2,
+      "content": "好吃"
+    },
+    {
+      "from": 575.86,
+      "to": 580.24,
+      "location": 2,
+      "content": "好吃…"
+    },
+    {
+      "from": 580.24,
+      "to": 584.37,
+      "location": 2,
+      "content": "好吃"
+    },
+    {
+      "from": 593.34,
+      "to": 594.92,
+      "location": 2,
+      "content": "帮大忙了"
+    },
+    {
+      "from": 595.34,
+      "to": 597.97,
+      "location": 2,
+      "content": "这样就能再撑一年"
+    },
+    {
+      "from": 597.97,
+      "to": 600.89,
+      "location": 2,
+      "content": "不可能吧 又不是大王具足虫"
+    },
+    {
+      "from": 600.89,
+      "to": 601.55,
+      "location": 2,
+      "content": "很好"
+    },
+    {
+      "from": 601.55,
+      "to": 603.31,
+      "location": 2,
+      "content": "你报上名来"
+    },
+    {
+      "from": 604.27,
+      "to": 606.35,
+      "location": 2,
+      "content": "我是鲁迪乌斯．格雷拉特"
+    },
+    {
+      "from": 606.89,
+      "to": 607.85,
+      "location": 2,
+      "content": "是吗"
+    },
+    {
+      "from": 608.44,
+      "to": 610.86,
+      "location": 2,
+      "content": "本宫是…"
+    },
+    {
+      "from": 610.86,
+      "to": 614.03,
+      "location": 2,
+      "content": "奇希莉卡．奇希里斯"
+    },
+    {
+      "from": 614.36,
+      "to": 617.11,
+      "location": 2,
+      "content": "人称…"
+    },
+    {
+      "from": 617.49,
+      "to": 621.2,
+      "location": 2,
+      "content": "魔界大帝"
+    },
+    {
+      "from": 627.33,
+      "to": 628.75,
+      "location": 2,
+      "content": "好可怜…"
+    },
+    {
+      "from": 628.75,
+      "to": 630.46,
+      "location": 2,
+      "content": "竟然一个人在玩魔王煮饭仔…"
+    },
+    {
+      "from": 630.46,
+      "to": 632.13,
+      "location": 2,
+      "content": "是没有朋友吧"
+    },
+    {
+      "from": 632.67,
+      "to": 634.84,
+      "location": 2,
+      "content": "好吧 我就奉陪到底吧"
+    },
+    {
+      "from": 636.55,
+      "to": 640.22,
+      "location": 2,
+      "content": "是 微臣真是失礼了 陛下"
+    },
+    {
+      "from": 645.18,
+      "to": 646.97,
+      "location": 2,
+      "content": "很好 很好"
+    },
+    {
+      "from": 646.97,
+      "to": 649.85,
+      "location": 2,
+      "content": "本宫就是在等这种反应"
+    },
+    {
+      "from": 649.85,
+      "to": 653.23,
+      "location": 2,
+      "content": "因为最近的年轻人都不懂礼貌"
+    },
+    {
+      "from": 653.23,
+      "to": 656.48,
+      "location": 2,
+      "content": "微臣不知陛下已经复活"
+    },
+    {
+      "from": 656.48,
+      "to": 658.82,
+      "location": 2,
+      "content": "多有失礼还请原谅"
+    },
+    {
+      "from": 658.82,
+      "to": 661.16,
+      "location": 2,
+      "content": "无妨无妨"
+    },
+    {
+      "from": 672.33,
+      "to": 675.59,
+      "location": 2,
+      "content": "你是怎样 好恶心"
+    },
+    {
+      "from": 675.8,
+      "to": 678.67,
+      "location": 2,
+      "content": "这是怎样 这是怎样啊"
+    },
+    {
+      "from": 679.63,
+      "to": 681.13,
+      "location": 2,
+      "content": "这可是本宫第一次看到啊"
+    },
+    {
+      "from": 681.13,
+      "to": 683.14,
+      "location": 2,
+      "content": "我竟然被初次见到的梦魔幼女"
+    },
+    {
+      "from": 683.14,
+      "to": 684.85,
+      "location": 2,
+      "content": "这到底是怎样啊 说很恶心"
+    },
+    {
+      "from": 686.81,
+      "to": 689.73,
+      "location": 2,
+      "content": "你救了本宫的命"
+    },
+    {
+      "from": 690.77,
+      "to": 692.02,
+      "location": 2,
+      "content": "不管什么都行"
+    },
+    {
+      "from": 692.35,
+      "to": 694.56,
+      "location": 2,
+      "content": "本宫允许你提出一个愿望"
+    },
+    {
+      "from": 697.15,
+      "to": 699.94,
+      "location": 2,
+      "content": "那么 请给我钜额的财富"
+    },
+    {
+      "from": 699.94,
+      "to": 701.53,
+      "location": 2,
+      "content": "蠢材"
+    },
+    {
+      "from": 701.53,
+      "to": 703.78,
+      "location": 2,
+      "content": "如你所见 本宫一贫如洗"
+    },
+    {
+      "from": 704.53,
+      "to": 707.08,
+      "location": 2,
+      "content": "那请把世界分一半给我"
+    },
+    {
+      "from": 707.08,
+      "to": 709.75,
+      "location": 2,
+      "content": "一半的世界吗"
+    },
+    {
+      "from": 710.79,
+      "to": 713.08,
+      "location": 2,
+      "content": "这个愿望真大啊"
+    },
+    {
+      "from": 713.79,
+      "to": 717.59,
+      "location": 2,
+      "content": "不过很抱歉 本宫也没有征服过世界"
+    },
+    {
+      "from": 718.63,
+      "to": 721.97,
+      "location": 2,
+      "content": "我知道了 那就身体吧"
+    },
+    {
+      "from": 721.97,
+      "to": 722.97,
+      "location": 2,
+      "content": "用你的身体道谢"
+    },
+    {
+      "from": 723.59,
+      "to": 724.59,
+      "location": 2,
+      "content": "身体吗"
+    },
+    {
+      "from": 724.97,
+      "to": 727.47,
+      "location": 2,
+      "content": "你明明相当年幼却很好色呢"
+    },
+    {
+      "from": 727.47,
+      "to": 728.85,
+      "location": 2,
+      "content": "真担心你的未来"
+    },
+    {
+      "from": 728.85,
+      "to": 730.1,
+      "location": 2,
+      "content": "当然是开玩笑的　　好吧"
+    },
+    {
+      "from": 730.77,
+      "to": 733.35,
+      "location": 2,
+      "content": "要温柔一点"
+    },
+    {
+      "from": 736.98,
+      "to": 738.48,
+      "location": 2,
+      "content": "不行不行"
+    },
+    {
+      "from": 738.48,
+      "to": 740.9,
+      "location": 2,
+      "content": "这次本宫已经有未婚夫了"
+    },
+    {
+      "from": 743.2,
+      "to": 746.95,
+      "location": 2,
+      "content": "钱不行 世界也不行 身体也不行"
+    },
+    {
+      "from": 747.53,
+      "to": 749.16,
+      "location": 2,
+      "content": "那究竟什么才可以啊"
+    },
+    {
+      "from": 749.16,
+      "to": 750.49,
+      "location": 2,
+      "content": "笨蛋"
+    },
+    {
+      "from": 750.49,
+      "to": 753.66,
+      "location": 2,
+      "content": "说到魔界大帝奇希莉卡赐予的东西"
+    },
+    {
+      "from": 754.04,
+      "to": 755.96,
+      "location": 2,
+      "content": "自然就是魔眼啊"
+    },
+    {
+      "from": 755.96,
+      "to": 758.21,
+      "location": 2,
+      "content": "魔眼 有卖那种东西吗"
+    },
+    {
+      "from": 758.21,
+      "to": 759.67,
+      "location": 2,
+      "content": "才没有在贩卖魔眼啊"
+    },
+    {
+      "from": 759.67,
+      "to": 761.67,
+      "location": 2,
+      "content": "应该说本宫不打算卖"
+    },
+    {
+      "from": 761.67,
+      "to": 765.8,
+      "location": 2,
+      "content": "是吗 所以你要给我什么魔眼呢"
+    },
+    {
+      "from": 767.3,
+      "to": 769.22,
+      "location": 2,
+      "content": "把脸靠近我一点"
+    },
+    {
+      "from": 769.51,
+      "to": 770.18,
+      "location": 2,
+      "content": "是"
+    },
+    {
+      "from": 774.02,
+      "to": 776.4,
+      "location": 2,
+      "content": "你在做什么死小鬼　　吵死了"
+    },
+    {
+      "from": 776.4,
+      "to": 778.44,
+      "location": 2,
+      "content": "可恶 杀了你啊　　你是男孩子吧"
+    },
+    {
+      "from": 779.02,
+      "to": 780.78,
+      "location": 2,
+      "content": "好痛…"
+    },
+    {
+      "from": 780.78,
+      "to": 787.82,
+      "location": 2,
+      "content": "可恶 我的眼睛…眼睛…"
+    },
+    {
+      "from": 789.12,
+      "to": 792.2,
+      "location": 2,
+      "content": "很好很好 能好好看见吧"
+    },
+    {
+      "from": 795.92,
+      "to": 798.46,
+      "location": 2,
+      "content": "饭的事你做得很好"
+    },
+    {
+      "from": 798.75,
+      "to": 802.38,
+      "location": 2,
+      "content": "要是又有什么困扰可以来找本宫帮忙"
+    },
+    {
+      "from": 802.96,
+      "to": 804.13,
+      "location": 2,
+      "content": "再见"
+    },
+    {
+      "from": 814.98,
+      "to": 817.9,
+      "location": 2,
+      "content": "就这样 我得到了预知眼"
+    },
+    {
+      "from": 830.12,
+      "to": 833.58,
+      "location": 2,
+      "content": "突然给我这种东西到底该怎么办…"
+    },
+    {
+      "from": 836.12,
+      "to": 838.87,
+      "location": 2,
+      "content": "你是不会好好走路吗"
+    },
+    {
+      "from": 838.87,
+      "to": 841.59,
+      "location": 2,
+      "content": "抱歉 我眼睛不太好…"
+    },
+    {
+      "from": 843.59,
+      "to": 846.92,
+      "location": 2,
+      "content": "眼睛不好  那不是更应该多注意吗"
+    },
+    {
+      "from": 848.43,
+      "to": 851.22,
+      "location": 2,
+      "content": "你是怎样 有没有在听啊"
+    },
+    {
+      "from": 856.23,
+      "to": 857.89,
+      "location": 2,
+      "content": "对 对不起"
+    },
+    {
+      "from": 857.89,
+      "to": 859.48,
+      "location": 2,
+      "content": "没事吧"
+    },
+    {
+      "from": 859.48,
+      "to": 861.23,
+      "location": 2,
+      "content": "我现在就过去那里"
+    },
+    {
+      "from": 861.52,
+      "to": 862.44,
+      "location": 2,
+      "content": "混账"
+    },
+    {
+      "from": 872.7,
+      "to": 874.29,
+      "location": 2,
+      "content": "魔界大帝吗…"
+    },
+    {
+      "from": 875.74,
+      "to": 877.96,
+      "location": 2,
+      "content": "原来她复活啦"
+    },
+    {
+      "from": 877.96,
+      "to": 879.71,
+      "location": 2,
+      "content": "你认识她吗"
+    },
+    {
+      "from": 879.71,
+      "to": 882.59,
+      "location": 2,
+      "content": "我没有见过 不过有听说过传闻"
+    },
+    {
+      "from": 883.17,
+      "to": 885.59,
+      "location": 2,
+      "content": "魔界大帝奇希莉卡．奇希里斯"
+    },
+    {
+      "from": 886.13,
+      "to": 888.92,
+      "location": 2,
+      "content": "据说体内藏有12种魔眼"
+    },
+    {
+      "from": 888.92,
+      "to": 892.22,
+      "location": 2,
+      "content": "能看透所有的事物"
+    },
+    {
+      "from": 892.22,
+      "to": 894.1,
+      "location": 2,
+      "content": "为什么她会来这座城市呢"
+    },
+    {
+      "from": 894.31,
+      "to": 895.56,
+      "location": 2,
+      "content": "不清楚"
+    },
+    {
+      "from": 895.56,
+      "to": 898.48,
+      "location": 2,
+      "content": "我怎么可能知道魔帝在想什么"
+    },
+    {
+      "from": 899.77,
+      "to": 902.23,
+      "location": 2,
+      "content": "魔界大帝 也是呢"
+    },
+    {
+      "from": 906.4,
+      "to": 909.4,
+      "location": 2,
+      "content": "抱歉…在习惯这只眼睛前"
+    },
+    {
+      "from": 909.4,
+      "to": 910.78,
+      "location": 2,
+      "content": "我要足不出户了"
+    },
+    {
+      "from": 910.78,
+      "to": 911.82,
+      "location": 2,
+      "content": "知道了"
+    },
+    {
+      "from": 912.24,
+      "to": 913.62,
+      "location": 2,
+      "content": "谢谢…"
+    },
+    {
+      "from": 915.91,
+      "to": 916.74,
+      "location": 2,
+      "content": "艾莉丝…"
+    },
+    {
+      "from": 917.04,
+      "to": 919.09,
+      "location": 2,
+      "content": "我觉得你就算现在想去找魔界大帝"
+    },
+    {
+      "from": 919.11,
+      "to": 920.25,
+      "location": 2,
+      "content": "也只是白行一趟"
+    },
+    {
+      "from": 920.25,
+      "to": 921.58,
+      "location": 2,
+      "content": "我知道啦"
+    },
+    {
+      "from": 921.58,
+      "to": 923.29,
+      "location": 2,
+      "content": "不知道她还在不在镇上"
+    },
+    {
+      "from": 923.29,
+      "to": 924.59,
+      "location": 2,
+      "content": "这就难说了"
+    },
+    {
+      "from": 924.59,
+      "to": 926.75,
+      "location": 2,
+      "content": "好 走吧 瑞杰路德"
+    },
+    {
+      "from": 926.75,
+      "to": 928.42,
+      "location": 2,
+      "content": "动作快点"
+    },
+    {
+      "from": 929.97,
+      "to": 934.05,
+      "location": 2,
+      "content": "接着 我花了一星期左右习惯了魔眼"
+    },
+    {
+      "from": 935.26,
+      "to": 938.06,
+      "location": 2,
+      "content": "这东西只要捉到感觉就意外地简单"
+    },
+    {
+      "from": 938.39,
+      "to": 940.52,
+      "location": 2,
+      "content": "就像无咏唱魔术的诀窍一样"
+    },
+    {
+      "from": 941.23,
+      "to": 943.56,
+      "location": 2,
+      "content": "只要控制魔力去观察"
+    },
+    {
+      "from": 943.98,
+      "to": 945.69,
+      "location": 2,
+      "content": "能看见的未来区间"
+    },
+    {
+      "from": 945.69,
+      "to": 948.9,
+      "location": 2,
+      "content": "能够由灌注进魔眼的魔力量去调整"
+    },
+    {
+      "from": 949.32,
+      "to": 951.11,
+      "location": 2,
+      "content": "不过是得到了魔眼"
+    },
+    {
+      "from": 951.11,
+      "to": 952.91,
+      "location": 2,
+      "content": "你以为能赢过我吗"
+    },
+    {
+      "from": 953.28,
+      "to": 954.78,
+      "location": 2,
+      "content": "只要增强魔力"
+    },
+    {
+      "from": 954.78,
+      "to": 956.87,
+      "location": 2,
+      "content": "就能看到两秒之后的未来"
+    },
+    {
+      "from": 958.29,
+      "to": 959.12,
+      "location": 2,
+      "content": "看得见"
+    },
+    {
+      "from": 959.58,
+      "to": 961.46,
+      "location": 2,
+      "content": "但是有分歧"
+    },
+    {
+      "from": 961.46,
+      "to": 963.37,
+      "location": 2,
+      "content": "分歧成两三个未来"
+    },
+    {
+      "from": 963.83,
+      "to": 965.42,
+      "location": 2,
+      "content": "把长度设为一秒之后"
+    },
+    {
+      "from": 965.42,
+      "to": 967.59,
+      "location": 2,
+      "content": "这就是无分歧未来的极限"
+    },
+    {
+      "from": 968.25,
+      "to": 969.88,
+      "location": 2,
+      "content": "接下来是从右边过来的剑"
+    },
+    {
+      "from": 970.88,
+      "to": 971.72,
+      "location": 2,
+      "content": "很好"
+    },
+    {
+      "from": 976.22,
+      "to": 977.55,
+      "location": 2,
+      "content": "要来了要来了"
+    },
+    {
+      "from": 977.55,
+      "to": 979.18,
+      "location": 2,
+      "content": "假装自己被打倒"
+    },
+    {
+      "from": 979.18,
+      "to": 981.77,
+      "location": 2,
+      "content": "遮蔽视线的 沙子"
+    },
+    {
+      "from": 982.18,
+      "to": 983.35,
+      "location": 2,
+      "content": "接下来是头锤"
+    },
+    {
+      "from": 986.98,
+      "to": 988.73,
+      "location": 2,
+      "content": "别给对方反击的空档"
+    },
+    {
+      "from": 989.48,
+      "to": 991.53,
+      "location": 2,
+      "content": "最后封住对方动作"
+    },
+    {
+      "from": 993.03,
+      "to": 994.24,
+      "location": 2,
+      "content": "到此为止"
+    },
+    {
+      "from": 998.45,
+      "to": 999.45,
+      "location": 2,
+      "content": "赢了"
+    },
+    {
+      "from": 1000.27,
+      "to": 1001.44,
+      "location": 2,
+      "content": "鲁迪乌斯"
+    },
+    {
+      "from": 1002.75,
+      "to": 1004.04,
+      "location": 2,
+      "content": "我彻底输了"
+    },
+    {
+      "from": 1005.58,
+      "to": 1006.75,
+      "location": 2,
+      "content": "艾莉丝"
+    },
+    {
+      "from": 1008.21,
+      "to": 1009,
+      "location": 2,
+      "content": "太天真了"
+    },
+    {
+      "from": 1015.59,
+      "to": 1016.55,
+      "location": 2,
+      "content": "我回去了"
+    },
+    {
+      "from": 1017.55,
+      "to": 1018.39,
+      "location": 2,
+      "content": "艾莉丝"
+    },
+    {
+      "from": 1022.6,
+      "to": 1024.89,
+      "location": 2,
+      "content": "真是不错的战斗方法"
+    },
+    {
+      "from": 1024.89,
+      "to": 1026.77,
+      "location": 2,
+      "content": "斯佩路德族的战士团中"
+    },
+    {
+      "from": 1026.77,
+      "to": 1028.44,
+      "location": 2,
+      "content": "也曾有人拥有魔眼"
+    },
+    {
+      "from": 1028.44,
+      "to": 1030.4,
+      "location": 2,
+      "content": "但他直到死前都无法好好控制"
+    },
+    {
+      "from": 1030.69,
+      "to": 1032.78,
+      "location": 2,
+      "content": "你能一星期就学会如何控制"
+    },
+    {
+      "from": 1032.8,
+      "to": 1033.63,
+      "location": 2,
+      "content": "实在很异常呢"
+    },
+    {
+      "from": 1033.99,
+      "to": 1037.49,
+      "location": 2,
+      "content": "说不定现在的我能赢过瑞杰路德先生"
+    },
+    {
+      "from": 1038.03,
+      "to": 1039.32,
+      "location": 2,
+      "content": "要试试看吗"
+    },
+    {
+      "from": 1039.62,
+      "to": 1040.45,
+      "location": 2,
+      "content": "好"
+    },
+    {
+      "from": 1044.79,
+      "to": 1047.75,
+      "location": 2,
+      "content": "果然赢不了瑞杰路德先生啊"
+    },
+    {
+      "from": 1048.38,
+      "to": 1050.92,
+      "location": 2,
+      "content": "听说艾莉丝打中他一次呢"
+    },
+    {
+      "from": 1050.92,
+      "to": 1052.76,
+      "location": 2,
+      "content": "这不是很厉害吗"
+    },
+    {
+      "from": 1052.76,
+      "to": 1055.63,
+      "location": 2,
+      "content": "没关系 不用安慰我"
+    },
+    {
+      "from": 1058.26,
+      "to": 1059.43,
+      "location": 2,
+      "content": "太狡猾了"
+    },
+    {
+      "from": 1059.76,
+      "to": 1062.93,
+      "location": 2,
+      "content": "我明明想快点追上鲁迪乌斯"
+    },
+    {
+      "from": 1067.23,
+      "to": 1068.6,
+      "location": 2,
+      "content": "对不起"
+    },
+    {
+      "from": 1072.4,
+      "to": 1074.28,
+      "location": 2,
+      "content": "你为什么要道歉啦"
+    },
+    {
+      "from": 1081.33,
+      "to": 1083.33,
+      "location": 2,
+      "content": "我这是在做什么"
+    },
+    {
+      "from": 1084.08,
+      "to": 1086.66,
+      "location": 2,
+      "content": "明明只是碰巧得到了魔眼"
+    },
+    {
+      "from": 1087.58,
+      "to": 1088.62,
+      "location": 2,
+      "content": "竟然靠这种力量"
+    },
+    {
+      "from": 1088.62,
+      "to": 1090.58,
+      "location": 2,
+      "content": "赢过一路努力过来的艾莉丝"
+    },
+    {
+      "from": 1091,
+      "to": 1092.17,
+      "location": 2,
+      "content": "还因此感到高兴"
+    },
+    {
+      "from": 1093.13,
+      "to": 1094.46,
+      "location": 2,
+      "content": "实在太得意忘形了"
+    },
+    {
+      "from": 1096.13,
+      "to": 1099.38,
+      "location": 2,
+      "content": "现在的我该做的不是变强"
+    },
+    {
+      "from": 1099.84,
+      "to": 1102.26,
+      "location": 2,
+      "content": "而是带艾莉丝回家"
+    },
+    {
+      "from": 1111.98,
+      "to": 1114.19,
+      "location": 2,
+      "content": "这么晚了 你要去哪里"
+    },
+    {
+      "from": 1117.86,
+      "to": 1119.82,
+      "location": 2,
+      "content": "去有点色色的店"
+    },
+    {
+      "from": 1120.24,
+      "to": 1123.16,
+      "location": 2,
+      "content": "抱女人有需要带魔杖吗"
+    },
+    {
+      "from": 1123.16,
+      "to": 1127,
+      "location": 2,
+      "content": "那个…想玩魔术师扮演"
+    },
+    {
+      "from": 1127,
+      "to": 1128.54,
+      "location": 2,
+      "content": "你打算卖掉吗"
+    },
+    {
+      "from": 1129.21,
+      "to": 1130.62,
+      "location": 2,
+      "content": "那个…"
+    },
+    {
+      "from": 1132.79,
+      "to": 1133.71,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 1137.21,
+      "to": 1141.84,
+      "location": 2,
+      "content": "那把魔杖对你来说是很重要的东西吧"
+    },
+    {
+      "from": 1143.39,
+      "to": 1145.1,
+      "location": 2,
+      "content": "就跟这个一样"
+    },
+    {
+      "from": 1147.02,
+      "to": 1151.56,
+      "location": 2,
+      "content": "是的 这是艾莉丝特别为我订做的"
+    },
+    {
+      "from": 1152.31,
+      "to": 1155.77,
+      "location": 2,
+      "content": "是跟这个首饰同等 非常重要的东西"
+    },
+    {
+      "from": 1156.78,
+      "to": 1158.9,
+      "location": 2,
+      "content": "如果发生一样的事情"
+    },
+    {
+      "from": 1158.9,
+      "to": 1160.24,
+      "location": 2,
+      "content": "你会把这个也卖了吗"
+    },
+    {
+      "from": 1161.61,
+      "to": 1163.12,
+      "location": 2,
+      "content": "要是有必要"
+    },
+    {
+      "from": 1164.28,
+      "to": 1165.74,
+      "location": 2,
+      "content": "我还未…"
+    },
+    {
+      "from": 1168.04,
+      "to": 1170.37,
+      "location": 2,
+      "content": "得到你的信赖吗"
+    },
+    {
+      "from": 1170.54,
+      "to": 1172.25,
+      "location": 2,
+      "content": "我很信赖你"
+    },
+    {
+      "from": 1172.79,
+      "to": 1173.92,
+      "location": 2,
+      "content": "对我来说"
+    },
+    {
+      "from": 1174.29,
+      "to": 1176.42,
+      "location": 2,
+      "content": "在与你相遇后的这一年里"
+    },
+    {
+      "from": 1176.8,
+      "to": 1180.01,
+      "location": 2,
+      "content": "自认多少了解了现在的世界"
+    },
+    {
+      "from": 1180.34,
+      "to": 1184.09,
+      "location": 2,
+      "content": "例如斯佩路德族有多不受欢迎"
+    },
+    {
+      "from": 1184.55,
+      "to": 1188.39,
+      "location": 2,
+      "content": "还有甚至会被收取天价的金额"
+    },
+    {
+      "from": 1189.56,
+      "to": 1190.56,
+      "location": 2,
+      "content": "即使如此"
+    },
+    {
+      "from": 1191.02,
+      "to": 1193.4,
+      "location": 2,
+      "content": "你还是试着要让我一同渡海"
+    },
+    {
+      "from": 1193.98,
+      "to": 1198.57,
+      "location": 2,
+      "content": "所以我想与你一起解决这个问题"
+    },
+    {
+      "from": 1199.86,
+      "to": 1204.16,
+      "location": 2,
+      "content": "然而你为何打算独自处理事情呢"
+    },
+    {
+      "from": 1206.83,
+      "to": 1207.78,
+      "location": 2,
+      "content": "我们在这一星期里"
+    },
+    {
+      "from": 1207.8,
+      "to": 1210.23,
+      "location": 2,
+      "content": "什么办法都没找到不是吗"
+    },
+    {
+      "from": 1210.58,
+      "to": 1212.25,
+      "location": 2,
+      "content": "这是没办法的事"
+    },
+    {
+      "from": 1212.87,
+      "to": 1216.34,
+      "location": 2,
+      "content": "我能想到的方法就只有把魔杖卖掉"
+    },
+    {
+      "from": 1217.04,
+      "to": 1219.5,
+      "location": 2,
+      "content": "或者是偷渡而已"
+    },
+    {
+      "from": 1220.71,
+      "to": 1222.01,
+      "location": 2,
+      "content": "不过偷渡"
+    },
+    {
+      "from": 1222.34,
+      "to": 1225.55,
+      "location": 2,
+      "content": "对瑞杰路德先生来说是「邪恶」吧"
+    },
+    {
+      "from": 1226.14,
+      "to": 1227.72,
+      "location": 2,
+      "content": "即使那是正确答案"
+    },
+    {
+      "from": 1227.72,
+      "to": 1230.22,
+      "location": 2,
+      "content": "若是让团队分裂就没有意义了"
+    },
+    {
+      "from": 1230.72,
+      "to": 1232.85,
+      "location": 2,
+      "content": "把魔杖卖掉就能拿到钱"
+    },
+    {
+      "from": 1233.14,
+      "to": 1235.23,
+      "location": 2,
+      "content": "我们能用对方指定的费用渡海"
+    },
+    {
+      "from": 1235.6,
+      "to": 1237.44,
+      "location": 2,
+      "content": "没有人需要忍耐就能解决问题"
+    },
+    {
+      "from": 1238.19,
+      "to": 1240.19,
+      "location": 2,
+      "content": "这肯定是最好的选择"
+    },
+    {
+      "from": 1242.36,
+      "to": 1243.53,
+      "location": 2,
+      "content": "鲁迪乌斯"
+    },
+    {
+      "from": 1244.15,
+      "to": 1246.2,
+      "location": 2,
+      "content": "这次的问题出在我身上"
+    },
+    {
+      "from": 1246.62,
+      "to": 1247.53,
+      "location": 2,
+      "content": "而这个问题"
+    },
+    {
+      "from": 1247.95,
+      "to": 1251.04,
+      "location": 2,
+      "content": "我的自尊没有办法容忍"
+    },
+    {
+      "from": 1251.06,
+      "to": 1252.85,
+      "location": 2,
+      "content": "你靠卖掉魔杖来解决"
+    },
+    {
+      "from": 1254.5,
+      "to": 1255.67,
+      "location": 2,
+      "content": "而且…"
+    },
+    {
+      "from": 1257.75,
+      "to": 1259.46,
+      "location": 2,
+      "content": "艾莉丝会怎么想呢"
+    },
+    {
+      "from": 1260,
+      "to": 1261.86,
+      "location": 2,
+      "content": "卖掉魔杖同样也会导致"
+    },
+    {
+      "from": 1261.89,
+      "to": 1264.49,
+      "location": 2,
+      "content": "你口中的团队分裂吧"
+    },
+    {
+      "from": 1270.81,
+      "to": 1273.23,
+      "location": 2,
+      "content": "我在渡海之前"
+    },
+    {
+      "from": 1273.23,
+      "to": 1275.44,
+      "location": 2,
+      "content": "会对所有的坏事视而不见"
+    },
+    {
+      "from": 1278.02,
+      "to": 1280.02,
+      "location": 2,
+      "content": "所以就去找吧 鲁迪乌斯"
+    },
+    {
+      "from": 1280.48,
+      "to": 1282.94,
+      "location": 2,
+      "content": "不管是走私贩或走私船都好"
+    },
+    {
+      "from": 1282.94,
+      "to": 1284.99,
+      "location": 2,
+      "content": "我会跟随你的判断"
+    },
+    {
+      "from": 1286.32,
+      "to": 1288.24,
+      "location": 2,
+      "content": "这件事就到此为止吧"
+    },
+    {
+      "from": 1290.74,
+      "to": 1293.04,
+      "location": 2,
+      "content": "像这样掏心掏肺地对话"
+    },
+    {
+      "from": 1293.04,
+      "to": 1294.96,
+      "location": 2,
+      "content": "实在是很累人呢"
+    },
+    {
+      "from": 1299.42,
+      "to": 1300.34,
+      "location": 2,
+      "content": "是谁"
+    },
+    {
+      "from": 1303.67,
+      "to": 1305.34,
+      "location": 2,
+      "content": "好恐怖好恐怖"
+    },
+    {
+      "from": 1305.34,
+      "to": 1308.22,
+      "location": 2,
+      "content": "我不是来吵架的"
+    },
+    {
+      "from": 1308.72,
+      "to": 1310.55,
+      "location": 2,
+      "content": "只是想来道谢而已"
+    },
+    {
+      "from": 1310.55,
+      "to": 1312.39,
+      "location": 2,
+      "content": "我四处在找你啊"
+    },
+    {
+      "from": 1313.47,
+      "to": 1315.27,
+      "location": 2,
+      "content": "你是先前我帮过的…"
+    },
+    {
+      "from": 1315.27,
+      "to": 1318.06,
+      "location": 2,
+      "content": "我是贾尔斯．库利那"
+    },
+    {
+      "from": 1318.31,
+      "to": 1320.31,
+      "location": 2,
+      "content": "请多多指教 小哥"
+    },
+    {
+      "from": 1322.02,
+      "to": 1325.03,
+      "location": 2,
+      "content": "(第12话 拥有魔眼的女人)"
+    },
+    {
+      "from": 1344.21,
+      "to": 1349.76,
+      "location": 2,
+      "content": "(在窗边看到的天空)"
+    },
+    {
+      "from": 1350.22,
+      "to": 1355.06,
+      "location": 2,
+      "content": "(与这片天空相同吗)"
+    },
+    {
+      "from": 1355.68,
+      "to": 1361.27,
+      "location": 2,
+      "content": "(黄昏就像看透我的内心)"
+    },
+    {
+      "from": 1361.27,
+      "to": 1365.86,
+      "location": 2,
+      "content": "(因而染上了色彩一样)"
+    },
+    {
+      "from": 1368.49,
+      "to": 1373.37,
+      "location": 2,
+      "content": "(在那留下天真无邪日常的地点)"
+    },
+    {
+      "from": 1373.37,
+      "to": 1382.25,
+      "location": 2,
+      "content": "(风就仿佛在迎接我一样吹拂著)"
+    },
+    {
+      "from": 1382.25,
+      "to": 1386.46,
+      "location": 2,
+      "content": "(请不要改变 不管是城市)"
+    },
+    {
+      "from": 1386.46,
+      "to": 1392.39,
+      "location": 2,
+      "content": "(人群还是梦想都请保持原样)"
+    },
+    {
+      "from": 1392.39,
+      "to": 1402.19,
+      "location": 2,
+      "content": "(向着如同那一天的一等星许下愿望)"
+    },
+    {
+      "from": 1403.06,
+      "to": 1407.53,
+      "location": 2,
+      "content": "(踏上归途)"
+    },
+    {
+      "from": 1415.03,
+      "to": 1420,
+      "location": 2,
+      "content": "(下集 擦肩而过)"
+    }
+  ]
+}
