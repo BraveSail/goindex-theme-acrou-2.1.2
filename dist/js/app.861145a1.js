@@ -411,7 +411,7 @@
             },
             data: function() {
                 return {
-                    github: "https://github.com/BraveSail/goindex-theme-acrou-2.1.2"
+                    github: "https://github.com/BraveSail/goindex-theme-acrou-2.0.9.8"
                 }
             },
             watch: {
@@ -455,11 +455,11 @@
         _ = a("b311"),
         C = a.n(_),
         x = a("d40e"),
-        A = {
+        j = {
             autoSetContainer: !1,
             appendToBody: !0
         },
-        j = function(e, t) {
+        A = function(e, t) {
             return new Promise((function(a, n) {
                 var r = document.createElement("button"),
                 o = new C.a(r, {
@@ -479,15 +479,15 @@
                     o.destroy(),
                     n(e)
                 })),
-                A.appendToBody && document.body.appendChild(r),
+                j.appendToBody && document.body.appendChild(r),
                 r.click(),
-                A.appendToBody && document.body.removeChild(r)
+                j.appendToBody && document.body.removeChild(r)
             }))
         },
         P = {
-            copy: j,
+            copy: A,
             copyText: function(e, t) {
-                return j(e, t).then((function() {
+                return A(e, t).then((function() {
                     Object(x["a"])({
                         title: "notify.title",
                         message: "copy.success",
@@ -503,8 +503,8 @@
                 }))
             },
             install: function(e) {
-                e.prototype.$clipboardConfig = A,
-                e.prototype.$copy = j,
+                e.prototype.$clipboardConfig = j,
+                e.prototype.$copy = A,
                 e.prototype.$copyText = this.copyText,
                 e.directive("clipboard", {
                     bind: function(e, t, a) {
@@ -518,7 +518,7 @@
                                 action: function() {
                                     return "cut" === t.arg ? "cut": "copy"
                                 },
-                                container: A.autoSetContainer ? e: void 0
+                                container: j.autoSetContainer ? e: void 0
                             });
                             n.on("success", (function(t) {
                                 var a = e._vClipboard_success;
@@ -544,7 +544,7 @@
                     }
                 })
             },
-            config: A
+            config: j
         },
         E = P,
         N = a("caf9"),
@@ -865,7 +865,7 @@
                 attrs: {
                     src: e.eyes
                 }
-            })])])])]), e._m(0), a("header-locales"), a("header-setting"), a("a", {
+            })])])])]), e._m(0), e._m(1), a("header-locales"), a("header-setting"), a("a", {
                 staticClass: "navbar-item is-hidden-desktop",
                 on: {
                     click: function(t) {
@@ -895,8 +895,8 @@
                     src: "https://ae02.alicdn.com/kf/H8b189e9ccd7842f58391988f11e22c11j.png"
                 }
             })])
-        }],
-        r2 = [function() {
+        },
+        function() {
             var e = this,
             t = e.$createElement,
             a = e._self._c || t;
@@ -1111,7 +1111,7 @@
             }
         },
         _ = O,
-        C = (a("1f25"), Object(u["a"])(_, n, r, r2, !1, null, null, null));
+        C = (a("1f25"), Object(u["a"])(_, n, r, !1, null, null, null));
         t["default"] = C.exports
     },
     "85b3": function(e, t) {
@@ -1565,7 +1565,7 @@
             [a("a", {
                 staticClass: "tag is-dark",
                 attrs: {
-                    href: "https://github.com/BraveSail/goindex-theme-acrou-2.1.2"
+                    href: "https://github.com/BraveSail/goindex-theme-acrou"
                 }
             },
             [e._v("goindex-theme-acrou")]), a("span", {
