@@ -1565,7 +1565,7 @@
             [a("a", {
                 staticClass: "tag is-dark",
                 attrs: {
-                    href: "https://github.com/BraveSail/goindex-theme-acrou"
+                    href: "https://github.com/BraveSail/goindex-theme-acrou-2.1.2"
                 }
             },
             [e._v("goindex-theme-acrou")]), a("span", {
