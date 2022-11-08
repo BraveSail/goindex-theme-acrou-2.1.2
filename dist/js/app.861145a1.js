@@ -892,7 +892,7 @@
             },
             [a("img", {
                 attrs: {
-                    src: "https://ae02.alicdn.com/kf/H8b189e9ccd7842f58391988f11e22c11j.png"
+                    src: "https://pic5.58cdn.com.cn/nowater/webim/big/n_v2b18d9eb15f254f14b21133f7c85b2934.png"
                 }
             })])
         },
