@@ -886,7 +886,7 @@
                 staticClass: "navbar-item",
                 attrs: {
                     title: "Telegram",
-                    href: "https://nc-raws.org/telegram",
+                    href: "https://kirara-fantasia.moe/telegram",
                     target: "view_window"
                 }
             },
@@ -904,7 +904,7 @@
                 staticClass: "navbar-item",
                 attrs: {
                     title: "Discord",
-                    href: "https://nc-raws.org/discord",
+                    href: "https://kirara-fantasia.moe/discord",
                     target: "view_window"
                 }
             },
