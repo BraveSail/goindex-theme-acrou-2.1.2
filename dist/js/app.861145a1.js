@@ -892,7 +892,7 @@
             },
             [a("img", {
                 attrs: {
-                    src: "https://pic5.58cdn.com.cn/nowater/webim/big/n_v2b18d9eb15f254f14b21133f7c85b2934.png"
+                    src: "https://cdn.jsdelivr.net/gh/BraveSail/goindex-theme-acrou-2.1.2/dist/images/n_v2b18d9eb15f254f14b21133f7c85b2934.png"
                 }
             })])
         },
@@ -910,7 +910,7 @@
             },
             [a("img", {
                 attrs: {
-                    src: "https://dd-static.jd.com/ddimg/jfs/t1/174141/2/29158/4173/6310c3bcE2685a578/676c79590a8ef16b.png"
+                    src: "https://cdn.jsdelivr.net/gh/BraveSail/goindex-theme-acrou-2.1.2/dist/images/676c79590a8ef16b.png"
                 }
             })])
         }],
